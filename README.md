@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axlisa
 - 👀 I’m interested in Programming
-- 🌱 I’m currently doing Bcahelor of Computer Science
+- 🌱 I’m currently doing Bachelor of Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
